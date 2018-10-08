@@ -1,7 +1,11 @@
+body {
+	background-color: antiquewhite;
+}
+
 h1 {
-	color: darkblue;
+	color: deeppink;
 }
 
 h2 {
-	color: dodgerblue;
+	color: lightcoral;
 }
